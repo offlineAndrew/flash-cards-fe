@@ -10,7 +10,7 @@ This is the front-end React Native repository for a full-stack Flashcard revisio
 
 ### Installation
 1. **Clone the repository**
-git clone https://github.com/Jessel1994/flash-cards-fe
+git clone https://github.com/offlineAndrew/flash-cards-fe
 
 
 2. **Navigate to the project directory**
